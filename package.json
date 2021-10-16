@@ -1,7 +1,7 @@
 {
-  "name": "Ether1Wallet",
+  "name": "EthoWallet",
   "version": "2.4.1",
-  "description": "Desktop wallet for Ether-1 ($ETHO)",
+  "description": "Desktop wallet for Etho Protocol ($ETHO)",
   "main": "main.js",
   "scripts": {
     "start": "electron .",
@@ -12,7 +12,7 @@
     "bundle": "browserify assets/dashboard/js/node.js > assets/dashboard/js/bundle.js"
   },
   "build": {
-    "appId": "Ether1DesktopWallet",
+    "appId": "EthoDesktopWallet",
     "files": [
       "modules/*",
       "assets/**/*",
@@ -52,7 +52,7 @@
     "Desktop",
     "Wallet"
   ],
-  "author": "Ether1",
+  "author": "EthoProtocol",
   "license": "CC0-1.0",
   "dependencies": {
     "@unibeautify/beautifier-js-beautify": "^0.4.0",
