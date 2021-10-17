@@ -46,13 +46,13 @@
       ]
     }
   },
-  "repository": "https://github.com/taeguscromis/Ether1DesktopWallet",
+  "repository": "https://github.com/Ether1Project/Ether1DesktopWallet",
   "keywords": [
-    "Ether1",
+    "Etho",
     "Desktop",
     "Wallet"
   ],
-  "author": "EthoProtocol",
+  "author": "Etho",
   "license": "CC0-1.0",
   "dependencies": {
     "@unibeautify/beautifier-js-beautify": "^0.4.0",
