@@ -74,7 +74,7 @@
     "node-fetch": "^3.3.2",
     "pull-file-reader": "^1.0.2",
     "single-instance": "0.0.1",
-    "undici": "^5.28.0",
+    "undici": "^6.24.0",
     "web3": "^4.0.0",
     "wrtc": "^0.4.7"
   },
