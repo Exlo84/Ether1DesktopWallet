@@ -67,7 +67,7 @@
     "ethereum-private-key-to-address": "^0.0.7",
     "ethereumjs-common": "1.5.2",
     "fs-extra": "^11.0.0",
-    "handlebars": "^4.7.8",
+    "handlebars": "^4.7.9",
     "keythereum": "2.0.0",
     "moment": "^2.29.4",
     "nedb": "^1.8.0",
