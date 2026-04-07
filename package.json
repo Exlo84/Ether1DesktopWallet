@@ -80,7 +80,7 @@
   },
   "devDependencies": {
     "browserify": "^17.0.0",
-    "electron": "^22.0.0",
+    "electron": "^39.8.5",
     "electron-builder": "^24.0.0",
     "js-beautify": "^1.15.1",
     "node-gyp": "^10.0.0"
